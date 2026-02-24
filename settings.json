@@ -1,0 +1,18 @@
+{
+  "lastChangelogVersion": "0.54.2",
+  "defaultProvider": "openai",
+  "defaultModel": "gpt-5.2-codex",
+  "theme": "nord-light",
+  "extensions": [
+    "/home/jowe/projects/pi-configuration/extensions"
+  ],
+  "themes": [
+    "/home/jowe/projects/pi-configuration/themes"
+  ],
+  "skills": [
+    "/home/jowe/projects/pi-configuration/skills"
+  ],
+  "prompts": [
+    "/home/jowe/projects/pi-configuration/prompts"
+  ]
+}
