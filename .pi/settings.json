@@ -1,0 +1,7 @@
+{
+  "theme": "soft-light",
+  "themes": ["../themes"],
+  "extensions": ["../extensions"],
+  "skills": ["../skills"],
+  "prompts": ["../prompts"]
+}
